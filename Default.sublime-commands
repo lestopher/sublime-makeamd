@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Make AMD Module",
+    "command": "make_amd_module"
+  }
+]
